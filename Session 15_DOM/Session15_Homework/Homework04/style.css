@@ -1,0 +1,22 @@
+ #optionalText {
+    font-size: 50px;
+
+} 
+#optionalText.active {
+    background-color: yellow;
+    color: red;
+}
+body {
+    
+    width: 40%;
+} 
+button {
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+   

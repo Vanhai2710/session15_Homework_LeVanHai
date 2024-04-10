@@ -1,0 +1,17 @@
+
+
+
+input {
+    border-radius: 50px;
+    font-size: 25px;
+}
+button {
+    border-radius: 10px;
+    font-size: 28px;
+    background: #93f096;
+    border: 1px;
+    width: 25%;
+}
+ul {
+    font-size: 25px;
+}
